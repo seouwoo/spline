@@ -7,3 +7,6 @@
 # 파란색이 정면임
 # rgb -->  xyz 순서
 # rad(x축) green(y축) blue(z축)
+
+
+#ctel + D 오브젝트 복사
