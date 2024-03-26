@@ -10,3 +10,7 @@
 
 
 #ctel + D 오브젝트 복사
+
+![image](https://github.com/seouwoo/spline/assets/163283988/7122f73a-4d80-43e2-9d3d-83c8c3efe930)
+
+# 기본값
