@@ -14,3 +14,7 @@
 ![image](https://github.com/seouwoo/spline/assets/163283988/7122f73a-4d80-43e2-9d3d-83c8c3efe930)
 
 # 기본값
+
+
+![image](https://github.com/seouwoo/spline/assets/163283988/a49c10a9-75fb-44cf-ace9-c079f4a433aa)
+# 조절선 선택시 전체 선택하고자 할 때 해당 부분선을 더블 클릭하면 전체 선택이 된다.
